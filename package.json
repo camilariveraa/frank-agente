@@ -1,0 +1,13 @@
+{
+  "name": "frank-agente-nutricion",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Frank — Agente de nutrición y alimentación para Camila",
+  "main": "frank.js",
+  "scripts": {
+    "start": "node frank.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.88.0"
+  }
+}
